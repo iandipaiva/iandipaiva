@@ -10,23 +10,31 @@
 
 
 ##
-#### Contato:
 <p align="left">
 
-<a href="https://www.linkedin.com/in/ian-di-paiva-94a123380/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-       width="40"
-       alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="https://www.instagram.com/idipaiva/" target="_blank">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F"
-       width="40"
-       alt="Instagram"
-       title="Instagram"/></a>&nbsp;&nbsp;<a href="mailto:iandipaiva@yahoo.com.br">
-  <img src="https://img.icons8.com/fluency/48/new-post.png"
-       width="42"
-       height="42"
-       alt="E-mail"
-       title="E-mail"/>
+<a href="https://www.linkedin.com/in/ian-di-paiva-94a123380/" 
+   target="_blank" 
+   style="text-decoration: none;">
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+    width="40"
+    alt="LinkedIn"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/idipaiva/" 
+   target="_blank" 
+   style="text-decoration: none;">
+  <img 
+    src="https://cdn.simpleicons.org/instagram/E4405F"
+    width="40"
+    alt="Instagram"/>
+</a>&nbsp;&nbsp;
+<a href="mailto:iandipaiva@yahoo.com.br" 
+   style="text-decoration: none;">
+  <img 
+    src="https://img.icons8.com/fluency/48/new-post.png"
+    width="42"
+    height="42"
+    alt="E-mail"/>
 </a>
 
 </p>
-
