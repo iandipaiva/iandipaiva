@@ -1,4 +1,4 @@
-# Olá, eu sou Ian!
+# Olá, eu sou o Ian!
 ###  Estudante de Análise e Desenvolvimento de Sistemas | Análise de Dados.
 
 
@@ -11,29 +11,9 @@
 
 ##
 
-
-
-### 📊 Análise de Dados
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<p align="left">
+<a href="https://www.linkedin.com/in/ian-di-paiva-94a123380/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="30" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/idipaiva/" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="30" alt="Instagram"/></a>&nbsp;&nbsp;
+<a href="mailto:iandipaiva@yahoo.com.br"><img src="https://img.icons8.com/fluency/48/new-post.png" width="30" alt="E-mail"/></a>
 </p>
 
-
-##
-<a href="https://www.linkedin.com/in/ian-di-paiva-94a123380/" target="_blank">
-  <img src="https://img.icons8.com/color/48/linkedin.png"
-       width="22"
-       alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/idipaiva/" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/instagram-new.png"
-       width="22"
-       alt="Instagram"/>
-</a>
-<a href="mailto:iandipaiva@yahoo.com.br">
-  <img src="https://img.icons8.com/fluency/48/new-post.png"
-       width="22"
-       alt="E-mail"/>
-</a>
