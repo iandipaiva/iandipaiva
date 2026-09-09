@@ -10,31 +10,30 @@
 
 
 ##
-<p align="left">
 
-<a href="https://www.linkedin.com/in/ian-di-paiva-94a123380/" 
-   target="_blank" 
-   style="text-decoration: none;">
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-    width="40"
-    alt="LinkedIn"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/idipaiva/" 
-   target="_blank" 
-   style="text-decoration: none;">
-  <img 
-    src="https://cdn.simpleicons.org/instagram/E4405F"
-    width="40"
-    alt="Instagram"/>
-</a>&nbsp;&nbsp;
-<a href="mailto:iandipaiva@yahoo.com.br" 
-   style="text-decoration: none;">
-  <img 
-    src="https://img.icons8.com/fluency/48/new-post.png"
-    width="42"
-    height="42"
-    alt="E-mail"/>
-</a>
 
+
+### 📊 Análise de Dados
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
+
+
+##
+<a href="https://www.linkedin.com/in/ian-di-paiva-94a123380/" target="_blank">
+  <img src="https://img.icons8.com/color/48/linkedin.png"
+       width="22"
+       alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/idipaiva/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/instagram-new.png"
+       width="22"
+       alt="Instagram"/>
+</a>
+<a href="mailto:iandipaiva@yahoo.com.br">
+  <img src="https://img.icons8.com/fluency/48/new-post.png"
+       width="22"
+       alt="E-mail"/>
+</a>
